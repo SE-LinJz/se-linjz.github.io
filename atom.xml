@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>理想邦</title>
+  <title>三味书屋</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://se-linjz.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://se-linjz.github.io/"/>
   <updated>2023-10-09T08:45:12.037Z</updated>
-  <id>http://example.com/</id>
+  <id>https://se-linjz.github.io/</id>
   
   <author>
     <name>LinJz</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客文章</title>
-    <link href="http://example.com/2023/10/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2023/10/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+    <link href="https://se-linjz.github.io/2023/10/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+    <id>https://se-linjz.github.io/2023/10/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
     <published>2023-10-09T08:31:42.000Z</published>
     <updated>2023-10-09T08:45:12.037Z</updated>
     
