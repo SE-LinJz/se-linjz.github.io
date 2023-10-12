@@ -6,7 +6,7 @@
   <link href="https://se-linjz.github.io/atom.xml" rel="self"/>
   
   <link href="https://se-linjz.github.io/"/>
-  <updated>2023-10-12T06:49:36.947Z</updated>
+  <updated>2023-10-12T12:47:26.251Z</updated>
   <id>https://se-linjz.github.io/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PriorityQueue什么时候是大顶堆，什么时候是小顶堆</title>
+    <link href="https://se-linjz.github.io/2023/10/12/PriorityQueue%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%A4%A7%E9%A1%B6%E5%A0%86%EF%BC%8C%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%B0%8F%E9%A1%B6%E5%A0%86/"/>
+    <id>https://se-linjz.github.io/2023/10/12/PriorityQueue%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%A4%A7%E9%A1%B6%E5%A0%86%EF%BC%8C%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%B0%8F%E9%A1%B6%E5%A0%86/</id>
+    <published>2023-10-12T12:22:10.000Z</published>
+    <updated>2023-10-12T12:47:26.251Z</updated>
+    
+    <content type="html"><![CDATA[<p>在解lecode第23题：合并K个升序链表的时候，需要用到PriorityQueue小顶堆，每次从堆中取出最小的节点然后依次组成我们想要的链表，题解是用了Java库的中的优先级队列PriorityQueue</p><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">PriorityQueue&lt;ListNode&gt; pq = <span class="keyword">new</span> <span class="title class_">PriorityQueue</span>&lt;&gt;(lists.length,(a,b)-&gt;(a.val - b.val));</span><br></pre></td></tr></table></figure><p>其中，这里的(a,b)-&gt;(a.val - b.val)是lambda表达式，实际上是int compare (Integer a, Integer b) { return a.val - b.val;  }</p><p>(a,b)-&gt;(a.val - b.val)到底是小顶堆还是大顶堆，怎么看呢，为什么a.val - b.val是小顶堆而b.val - a.val是大顶堆呢？</p><p><strong>由于源码中新入队元素x是在第1个参数a的位置，因此最大&#x2F;最小优先队列主要根据第1个参数的大小关系来判断</strong>。 (主要还是在于控制compare这个方法来控制大小顶堆)</p><p>&#x2F;&#x2F;对于最小堆，当x&lt;e时，要想让x上升，即compare (x, e) &lt; 0，那就得让int compare (Integer x, Integer e) { return x &lt; e ? -1 : 1;  }</p><p>&#x2F;&#x2F;对于最大堆，当x&gt;e时，要想让x上升，即compare (x, e) &lt; 0，那就得让int compare (Integer x, Integer e) { return x &gt; e ? -1 : 1;  } </p><p>至于为什么要让其返回负数呢？</p><p>源码是这么设计的</p><p><img src="https://linjz-blog.oss-cn-hangzhou.aliyuncs.com/1280X1280.PNG" alt="PriorityQueue大小堆决定源码"></p><p>所以，在这里，(a,b)-&gt;(a.val - b.val)，也就是int compare (Integer a, Integer b) { return a.val - b.val;  }，a.val &lt; b.val的时候，compare (x, e) &lt; 0，a小且a上升，是小顶堆。</p><p>反之，(a,b)-&gt;(b.val - a.val)，也就是int compare (Integer a, Integer b) { return b.val - a.val;  }，a.val &gt; b.val的时候，compare (x, e) &lt; 0，a大且a上升，是大顶堆。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在解lecode第23题：合并K个升序链表的时候，需要用到PriorityQueue小顶堆，每次从堆中取出最小的节点然后依次组成我们想要的链表，题解是用了Java库的中的优先级队列PriorityQueue&lt;/p&gt;
+&lt;figure class=&quot;highlight java</summary>
+      
+    
+    
+    
+    
+    <category term="PriorityQueue" scheme="https://se-linjz.github.io/tags/PriorityQueue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java面向对象进阶知识回顾</title>
+    <link href="https://se-linjz.github.io/2023/10/12/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/"/>
+    <id>https://se-linjz.github.io/2023/10/12/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/</id>
+    <published>2023-10-12T08:33:29.000Z</published>
+    <updated>2023-10-12T08:33:29.335Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Java面向对象基础知识回顾</title>
