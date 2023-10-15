@@ -3,11 +3,11 @@
   <title>LinJz的博客</title>
   
   <subtitle>完成大于完美</subtitle>
-  <link href="https://se-linjz.github.io/atom.xml" rel="self"/>
+  <link href="https://linjz.netlify.app/atom.xml" rel="self"/>
   
-  <link href="https://se-linjz.github.io/"/>
-  <updated>2023-10-14T11:37:25.727Z</updated>
-  <id>https://se-linjz.github.io/</id>
+  <link href="https://linjz.netlify.app/"/>
+  <updated>2023-10-15T02:18:56.761Z</updated>
+  <id>https://linjz.netlify.app/</id>
   
   <author>
     <name>LinJz</name>
@@ -17,9 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>关于我</title>
+    <link href="https://linjz.netlify.app/2023/10/15/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+    <id>https://linjz.netlify.app/2023/10/15/%E5%85%B3%E4%BA%8E%E6%88%91/</id>
+    <published>2023-10-15T02:08:00.000Z</published>
+    <updated>2023-10-15T02:18:56.761Z</updated>
+    
+    <content type="html"><![CDATA[<p>广东工业大学25届软件工程专业学生，喜欢健身，旅行，徒步。</p><p>学习的是Java后端，也了解一点点go，最近准备找找广州深圳实习。</p><p>此站记录本人学习笔记，如果有什么不正确的，望各位大佬批评指正。</p><p>互联网的行情一年不如一年，但是我们应该做的是：</p><p>&lt;font color&#x3D;”#Ff0000”size&#x3D;10 face&#x3D;”微软黑体”&gt;不抛弃，不放弃，不顾一切向前冲</font></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;广东工业大学25届软件工程专业学生，喜欢健身，旅行，徒步。&lt;/p&gt;
+&lt;p&gt;学习的是Java后端，也了解一点点go，最近准备找找广州深圳实习。&lt;/p&gt;
+&lt;p&gt;此站记录本人学习笔记，如果有什么不正确的，望各位大佬批评指正。&lt;/p&gt;
+&lt;p&gt;互联网的行情一年不如一年，但是我们应该做</summary>
+      
+    
+    
+    
+    
+    <category term="about" scheme="https://linjz.netlify.app/tags/about/"/>
+    
+  </entry>
+  
+  <entry>
     <title>相交链表问题</title>
-    <link href="https://se-linjz.github.io/2023/10/13/%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8%E9%97%AE%E9%A2%98/"/>
-    <id>https://se-linjz.github.io/2023/10/13/%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8%E9%97%AE%E9%A2%98/</id>
+    <link href="https://linjz.netlify.app/2023/10/13/%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8%E9%97%AE%E9%A2%98/"/>
+    <id>https://linjz.netlify.app/2023/10/13/%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8%E9%97%AE%E9%A2%98/</id>
     <published>2023-10-13T13:07:21.000Z</published>
     <updated>2023-10-14T11:37:25.727Z</updated>
     
@@ -35,14 +60,14 @@
     
     
     
-    <category term="算法 链表" scheme="https://se-linjz.github.io/tags/%E7%AE%97%E6%B3%95-%E9%93%BE%E8%A1%A8/"/>
+    <category term="算法 链表" scheme="https://linjz.netlify.app/tags/%E7%AE%97%E6%B3%95-%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   
   <entry>
     <title>PriorityQueue什么时候是大顶堆，什么时候是小顶堆</title>
-    <link href="https://se-linjz.github.io/2023/10/12/PriorityQueue%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%A4%A7%E9%A1%B6%E5%A0%86%EF%BC%8C%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%B0%8F%E9%A1%B6%E5%A0%86/"/>
-    <id>https://se-linjz.github.io/2023/10/12/PriorityQueue%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%A4%A7%E9%A1%B6%E5%A0%86%EF%BC%8C%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%B0%8F%E9%A1%B6%E5%A0%86/</id>
+    <link href="https://linjz.netlify.app/2023/10/12/PriorityQueue%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%A4%A7%E9%A1%B6%E5%A0%86%EF%BC%8C%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%B0%8F%E9%A1%B6%E5%A0%86/"/>
+    <id>https://linjz.netlify.app/2023/10/12/PriorityQueue%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%A4%A7%E9%A1%B6%E5%A0%86%EF%BC%8C%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%B0%8F%E9%A1%B6%E5%A0%86/</id>
     <published>2023-10-12T12:22:10.000Z</published>
     <updated>2023-10-12T12:50:53.871Z</updated>
     
@@ -58,14 +83,14 @@
     
     
     
-    <category term="PriorityQueue" scheme="https://se-linjz.github.io/tags/PriorityQueue/"/>
+    <category term="PriorityQueue" scheme="https://linjz.netlify.app/tags/PriorityQueue/"/>
     
   </entry>
   
   <entry>
     <title>Java面向对象进阶知识回顾</title>
-    <link href="https://se-linjz.github.io/2023/10/12/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/"/>
-    <id>https://se-linjz.github.io/2023/10/12/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/</id>
+    <link href="https://linjz.netlify.app/2023/10/12/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/"/>
+    <id>https://linjz.netlify.app/2023/10/12/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/</id>
     <published>2023-10-12T08:33:29.000Z</published>
     <updated>2023-10-12T08:33:29.335Z</updated>
     
@@ -77,8 +102,8 @@
   
   <entry>
     <title>Java面向对象基础知识回顾</title>
-    <link href="https://se-linjz.github.io/2023/10/11/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/"/>
-    <id>https://se-linjz.github.io/2023/10/11/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/</id>
+    <link href="https://linjz.netlify.app/2023/10/11/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/"/>
+    <id>https://linjz.netlify.app/2023/10/11/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/</id>
     <published>2023-10-11T11:07:51.000Z</published>
     <updated>2023-10-12T06:49:36.947Z</updated>
     
@@ -93,14 +118,14 @@
     
     
     
-    <category term="Java面向对象" scheme="https://se-linjz.github.io/tags/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    <category term="Java面向对象" scheme="https://linjz.netlify.app/tags/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
     
   </entry>
   
   <entry>
     <title>Java基础概念与常识</title>
-    <link href="https://se-linjz.github.io/2023/10/10/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/"/>
-    <id>https://se-linjz.github.io/2023/10/10/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/</id>
+    <link href="https://linjz.netlify.app/2023/10/10/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/"/>
+    <id>https://linjz.netlify.app/2023/10/10/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/</id>
     <published>2023-10-10T13:55:31.000Z</published>
     <updated>2023-10-11T11:02:46.753Z</updated>
     
@@ -115,7 +140,7 @@
     
     
     
-    <category term="Java SE" scheme="https://se-linjz.github.io/tags/Java-SE/"/>
+    <category term="Java SE" scheme="https://linjz.netlify.app/tags/Java-SE/"/>
     
   </entry>
   
