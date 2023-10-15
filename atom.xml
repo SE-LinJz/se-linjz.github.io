@@ -6,7 +6,7 @@
   <link href="https://linjz.netlify.app/atom.xml" rel="self"/>
   
   <link href="https://linjz.netlify.app/"/>
-  <updated>2023-10-15T02:57:35.117Z</updated>
+  <updated>2023-10-14T11:37:25.727Z</updated>
   <id>https://linjz.netlify.app/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>关于我</title>
-    <link href="https://linjz.netlify.app/2023/10/15/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
-    <id>https://linjz.netlify.app/2023/10/15/%E5%85%B3%E4%BA%8E%E6%88%91/</id>
-    <published>2023-10-15T02:08:00.000Z</published>
-    <updated>2023-10-15T02:57:35.117Z</updated>
-    
-    <content type="html"><![CDATA[<p>广东工业大学25届软件工程专业学生，喜欢健身，旅行，徒步。</p><p>学习的是Java后端，也了解一点点go，最近准备找找广州深圳实习。</p><p>此站记录本人学习笔记，如果有什么不正确的，望各位大佬批评指正。</p><p>互联网的行情一年不如一年，但我们应该做的是：</p><p><font color="#Ff0000" size=10 face="微软黑体">不抛弃,不放弃,不顾一切向前冲</font></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;广东工业大学25届软件工程专业学生，喜欢健身，旅行，徒步。&lt;/p&gt;
-&lt;p&gt;学习的是Java后端，也了解一点点go，最近准备找找广州深圳实习。&lt;/p&gt;
-&lt;p&gt;此站记录本人学习笔记，如果有什么不正确的，望各位大佬批评指正。&lt;/p&gt;
-&lt;p&gt;互联网的行情一年不如一年，但我们应该做的</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>相交链表问题</title>
