@@ -7,6 +7,6 @@ https://linjz.netlify.app/2023/10/11/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5
 https://linjz.netlify.app/2023/10/10/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/
 https://linjz.netlify.app/
 https://linjz.netlify.app/tags/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/
+https://linjz.netlify.app/tags/PriorityQueue/
 https://linjz.netlify.app/tags/Java-SE/
 https://linjz.netlify.app/tags/%E7%AE%97%E6%B3%95-%E9%93%BE%E8%A1%A8/
-https://linjz.netlify.app/tags/PriorityQueue/
