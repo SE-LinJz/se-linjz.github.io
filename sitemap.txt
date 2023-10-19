@@ -8,6 +8,6 @@ https://linjz.netlify.app/categories/index.html
 https://linjz.netlify.app/about/index.html
 https://linjz.netlify.app/
 https://linjz.netlify.app/tags/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/
+https://linjz.netlify.app/tags/PriorityQueue/
 https://linjz.netlify.app/tags/Java-SE/
 https://linjz.netlify.app/tags/%E7%AE%97%E6%B3%95/
-https://linjz.netlify.app/tags/PriorityQueue/
